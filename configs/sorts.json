@@ -2,17 +2,20 @@
     "": [
         "readme.md", 
         "my_blog", 
+        "notes", 
         "blogapp", 
         "my_blog"
     ], 
     "__positions": {
-        "my_blog": 4, 
-        "blogapp": 3, 
+        "notes": 3, 
+        "blogapp": 4, 
+        "my_blog": 5, 
         "readme.md": 1
     }, 
     "__raw_positions": {
-        "my_blog": 4, 
-        "blogapp": 3, 
+        "blogapp": 4, 
+        "my_blog": 5, 
+        "notes": 3, 
         "readme.md": 1
     }
 }
