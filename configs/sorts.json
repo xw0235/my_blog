@@ -1,0 +1,18 @@
+{
+    "": [
+        "readme.md", 
+        "my_blog", 
+        "blogapp", 
+        "my_blog"
+    ], 
+    "__positions": {
+        "my_blog": 4, 
+        "blogapp": 3, 
+        "readme.md": 1
+    }, 
+    "__raw_positions": {
+        "my_blog": 4, 
+        "blogapp": 3, 
+        "readme.md": 1
+    }
+}
