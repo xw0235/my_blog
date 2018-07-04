@@ -52,4 +52,4 @@ urlpatterns = [
     url(r'^sitemap\.xml$', sitemap, {'sitemaps': sitemaps}, name='django.contrib.sitemaps.views.sitemap'), # 网站地图
     url(r'^feed/$', AllArticleRssFeed(), name='rss'),   # rss订阅
     url(r'^api/v1/',include(router.urls,namespace='api')),   # restframework
-]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)  # 加入这个才能显示media文件
+]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT) # 加入这个才能显示media文件
