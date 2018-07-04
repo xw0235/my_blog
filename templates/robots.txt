@@ -1,11 +1,9 @@
-User-Agent: *
-Allow: /
-Allow: /blog_detail/blog_*$
-Allow: /joke
-Allow: /profile
-Allow: /essay
-Allow: /geek
-Disallow: /static
-Disallow: /admin
-Disallow: /templates
+﻿User-agent: *
+Disallow: /adminx/
+Disallow: /accounts/
+Disallow: /comment/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /silian.xml
 
+Sitemap: http://www.tendcode.com/sitemap.xml
